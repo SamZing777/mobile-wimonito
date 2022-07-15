@@ -1,0 +1,132 @@
+ <View style={styles.timeTable}>
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+
+                <View style={styles.subject}>
+                    <View>
+                        <Text style={styles.grayText}>
+                            7:40 - 08:10
+                        </Text>
+                    </View>
+                    <View style={styles.subjectItem}>
+                        <Text style={styles.grayText}>
+                            Assembly
+                        </Text>
+                    </View>
+                </View>
+                
+            </View>
